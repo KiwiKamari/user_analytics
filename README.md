@@ -1,7 +1,7 @@
 # user_analytics
 An analytics project designed to study user behavior within the purchasing process on an e-commerce platform. The goal is to measure and optimize the performance of the user journey by collecting and analyzing events generated at each stage of the process.
 
-As an additional component, an **executive summary** was developed in PDF format that consolidates the findings of the analysis and translates them into actionable recommendations. This document is structured around three key areas:
+As an additional component, an [executive summary](https://github.com/KiwiKamari/user_analytics/blob/main/report/Final_Recommendations.pdf) was developed in PDF format that consolidates the findings of the analysis and translates them into actionable recommendations. This document is structured around three key areas:
 - **UX & Website Optimization**
 The analysis revealed that the checkout flow has a conversion rate of over 80%, indicating a highly efficient process with no significant friction.
 → Decision: Avoid making changes to the checkout process so as not to compromise its current performance.
