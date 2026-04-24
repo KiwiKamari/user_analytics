@@ -1,19 +1,19 @@
 # user_analytics
 An analytics project designed to study user behavior within the purchasing process on an e-commerce platform. The goal is to measure and optimize the performance of the user journey by collecting and analyzing events generated at each stage of the process.
 
-As an additional component, an executive summary was developed in PDF format that consolidates the findings of the analysis and translates them into actionable recommendations. This document is structured around three key areas:
-- UX & Website Optimization
+As an additional component, an **executive summary** was developed in PDF format that consolidates the findings of the analysis and translates them into actionable recommendations. This document is structured around three key areas:
+- **UX & Website Optimization**
 The analysis revealed that the checkout flow has a conversion rate of over 80%, indicating a highly efficient process with no significant friction.
 → Decision: Avoid making changes to the checkout process so as not to compromise its current performance.
 
-- Marketing Strategy
+- **Marketing Strategy**
 It was found that social media generates high traffic volume (~30%) but has the lowest conversion rate (~6%), suggesting low-intent traffic. In contrast, email marketing showed the highest efficiency (~13%+).
 → Decisions:
 Reduce investment in social media traffic campaigns.
 Refocus the strategy toward retargeting and lead capture.
 Implement aggressive email capture mechanisms to capitalize on existing traffic.
 
-- Financial & Revenue Impact
+- **Financial & Revenue Impact**
 An Average Order Value (AOV) of ~$115 was calculated, allowing for an assessment of acquisition profitability.
 → Decision: Set a Customer Acquisition Cost (CAC) limit between $30–$40 to avoid unprofitable campaigns, especially in low-conversion channels.
 
