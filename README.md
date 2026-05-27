@@ -26,8 +26,8 @@ Feel free to connect with me on the following platforms:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-gerardo-espinosa-gonz%C3%A1lez-608139276/)
 
 Check out my personal projects!
-- ✅ **sql-data-analytics-project-main:** [GIT Repo](https://github.com/KiwiKamari/sql-data-analytics-project-main)
-- ✅ **adventure-works-analytics:** [GIT Repo](https://github.com/KiwiKamari/adventure-works-analytics)
+- ✅ **sql-data-analytics:** [GIT Repo](https://github.com/KiwiKamari/sql-data-analytics)
+- ✅ **adventure-works-analytics:** [GIT Repo](https://github.com/KiwiKamari/adventure-works-analytics-project-main)
 
 
 ### 🌟 About Me
